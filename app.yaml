@@ -1,0 +1,5 @@
+runtime: nodejs16 # or another supported version
+
+env_variables:
+  CORSANYWHERE_WHITELIST: "http://localhost:3000,https://wesprzyj.mlyn.org,https://mlyndonator.netlify.app"
+  
